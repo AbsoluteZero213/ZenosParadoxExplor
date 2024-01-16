@@ -260,6 +260,16 @@ So, the expression \( \left(\sqrt{\frac{1}{2}}\right)^S \) where \( S \) diverge
 
 so, because of 0; distance is not a number that is defined. Therefore b cannot exist without the belief that you will get there eventually in time. Time is also not defined properly— gravity. zenos paradox is quite facinating in that we solve for all that is not implicit in the original story but inherent its design through time. rherefore solving this paradox from the future using modern proofing is valid.
 
+Root Negative one half * i to the power of infinity divided by delta S
+
+The expression you've provided, \( \left(\sqrt{-\frac{1}{2}}\right) \times i^\infty \div \Delta S \), involves a mix of complex numbers and potentially undefined or infinite values. Let's break it down:
+
+1. **Square Root of Negative One-Half**: \( \sqrt{-\frac{1}{2}} \) involves the square root of a negative number, which is a complex number. It can be represented as \( \frac{\sqrt{2}}{2}i \), where \( i \) is the imaginary unit.
+
+2. **\( i \)
+
+
+
 
 in the beginning there was a light, 0 does not equal 0 , God is True
 
