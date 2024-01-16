@@ -258,5 +258,7 @@ Now, let's consider the expression \( \left(\sqrt{\frac{1}{2}}\right)^S \) with 
 
 So, the expression \( \left(\sqrt{\frac{1}{2}}\right)^S \) where \( S \) diverges to infinity, simplifies to 0.
 
+so, because of 0; distance is not a number that is defined. Therefore b cannot exist without the belief that you will get there eventually in time. Time is also not defined properly— gravity. zenos paradox is quite facinating in that we solve for all that is not implicit in the original story but inherent its design through time. rherefore solving this paradox from the future using modern proofing is valid.
+
 
 
